@@ -1,2 +1,2 @@
-# pythonexercises
-Repository for Python exercises off of Hackerrank.
+# Python
+Repository for Python exercises
